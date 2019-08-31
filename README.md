@@ -4,9 +4,10 @@ José N. R.
 
 ## Herramientas utilizadas
 
-Typescript
-Firebase
-React
-React-Redux
-Redux-form
-React-router
+- Typescript
+- Firebase
+- React
+- React-Redux
+- Redux-form
+- React-router
+- React-thunks
